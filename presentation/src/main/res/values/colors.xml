@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#2F2D33</color>-->
+    <color name="colorPrimary">#00abec</color>
+    <!--<color name="colorPrimaryDark">#2F2D33</color>-->
+    <color name="colorPrimaryDark">#00ABEC</color>
+    <!--<color name="colorPrimaryDark">#0097D0</color>-->
+    <color name="gray">#7f7f7f</color>
+    <color name="colorAccent">#0097D0</color>
+    <color name="black">#000000</color>
+    <color name="translate">#ffffff</color>
+    <color name="white">#fdf8f8</color>
+    <color name="textColor">#2d2c2c</color>
+    <color name="background">#1fe1e1e1</color>
+    <color name="deleteNormal">#E64340</color>
+    <color name="deletePressed">#CE3C39</color>
+    <color name="greenColorNormal">#19AC18</color>
+    <color name="greenColorPressed">#179B16</color>
+    <color name="schoolName">#576b95</color>
+    <color name="lineColor">#DEDEDE</color>
+    <color name="themeColor">#3FC4F6</color>
+</resources>

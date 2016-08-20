@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">校友录</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_phoneNumber">手机号码</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">注册 / 登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_phone_number">电话号码不正确</string>
+    <string name="error_invalid_password">密码太短啦</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">必填</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcomeimage">welcomeImage</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确定</string>
+    <string name="ensure">确定</string>
+    <string name="nick">用户名</string>
+    <string name="user_info">用户信息</string>
+    <string name="sex">性别</string>
+    <string name="school_name">毕业学校</string>
+    <string name="graduate_year">毕业时间</string>
+    <string name="class_name">班级名</string>
+    <string name="email">邮箱</string>
+    <string name="skip">跳过</string>
+    <string name="avatar">avatar</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
+    <string name="setting">设置</string>
+    <string name="creator">发起人:</string>
+    <string name="spinnerimg">spinnerImg</string>
+    <string name="message">Message</string>
+    <string name="message_board">公告板</string>
+    <string name="retryimage">retryImage</string>
+    <string name="main">首页</string>
+    <string name="creator_detail">XX届XX系XX班</string>
+    <string name="no_activity_member">暂时还没有成员，赶紧加入吧！</string>
+    <string name="search">搜索校友</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign">个人简介</string>
+    <string name="yet_land">Yet_land</string>
+    <string name="img_back">img_back</string>
+    <string name="loading">正在加载...</string>
+    <string name="add_as_school_mate">添加为校友</string>
+    <string name="delete_school_mate">删除校友</string>
+    <string name="delete_activity_member">删除成员</string>
+    <string name="join_activity">加入活动</string>
+    <string name="quit_activity">退出活动</string>
+    <string name="dismiss_activity">解散活动</string>
+    <string name="search_activity">搜索活动</string>
+    <string name="cancle">取消</string>
+    <string name="accept">同意</string>
+    <string name="schoolName">地球音乐学院</string>
+    <string name="userName">周杰伦</string>
+    <string name="addSchoolMate">请求添加校友</string>
+    <string name="reply">回复</string>
+    <string name="time">2016-04-26</string>
+    <string name="leaveMessage">给你留言</string>
+    <string name="messageBoard">留言</string>
+    <string name="are_you_ok">最近还好吗</string>
+    <string name="activity_name">活动名称</string>
+    <string name="activity_detail">活动详情</string>
+    <string name="create">创建</string>
+    <string name="to">给</string>
+    <string name="leave_message">留言</string>
+    <string name="update">修改</string>
+</resources>

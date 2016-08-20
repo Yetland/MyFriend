@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    tools:context=".view.activity.CreateActivity">
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/include_appbar"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_name"
+        android:layout_margin="4dp"
+        android:hint="@string/activity_name"
+        android:singleLine="true"
+        android:maxLines="1" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_detail"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="4dp"
+        android:hint="@string/activity_detail" />
+    <Button
+        android:id="@+id/ensure"
+        style="?android:textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/create"
+        android:textColor="@color/white"
+        android:background="@drawable/bt_custom"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp" />
+</LinearLayout>

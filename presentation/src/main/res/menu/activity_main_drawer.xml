@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="功能">
+        <menu>
+        <item
+            android:id="@+id/nav_my_school_mate"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="我的校友" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="我的通知" />
+            <item
+                android:id="@+id/nav_activity"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="活动" />
+        <item
+            android:id="@+id/nav_message_board"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="留言板" />
+        </menu>
+    </item>
+
+    <item android:title="@string/setting">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="关于我们" />
+            <item
+                android:id="@+id/nav_update"
+                android:icon="@drawable/ic_menu_share"
+                android:title="版本更新" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="退出登录" />
+        </menu>
+    </item>
+
+</menu>
